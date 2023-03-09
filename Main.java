@@ -3,6 +3,9 @@ public class Main {
 
         System.out.println("Создана ветка Now");
         System.out.println("Now3");
+        System.out.println("Такие дела");
+
+
     }
 }
     
